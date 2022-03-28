@@ -1,0 +1,7 @@
+{
+	"plugin-data":
+	{
+		"name": "CMSWB Inhaltsverzeichnis",
+		"description": "Dieses Plugin erzeugt ein automatisches Inhaltsverzeichnis anhand der <code>H2</code> Tags vor dem Content, dazu muss es manuell im Theme aufgerufen werden, statt über einen HOOK gerufen zu werden. Ist es nicht aktiviert, erscheint keine Anzeige und kein Abbruch."
+	}
+}
